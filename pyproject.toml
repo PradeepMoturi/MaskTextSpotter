@@ -9,11 +9,7 @@ license = "MIT"
 python = "^3.7"
 torch = "1.4.0"
 torchvision= "^0.5.0"
-cocoapi
-yacs
-matplotlib
 GCC = "^4.9" 
-OpenCV
 CUDA = "^9.0"
 
 [build-system]
